@@ -23,5 +23,6 @@
   "automergeType": "branch",
   "ignoreTests": true,
   "platformAutomerge": true,
-  "labels": ["renovate"]
+  "labels": ["renovate"],
+  "bumpVersion": "patch"
 }
